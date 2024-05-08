@@ -1,0 +1,15 @@
+{
+  "name": "foodstorecalculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "foodStoreCalculator.js",
+  "scripts": {
+    "test": "jest --testPathPattern=foodStoreCalculator.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "jest-editor-support": "^32.0.0-beta.0"
+  }
+}
